@@ -138,6 +138,15 @@
 
 ---
 
+## 💻 LeetCode Stats
+
+<!-- Update the username below if your LeetCode handle changes -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dileepreddy_13?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+---
+
 ## 🏆 Achievements & Certifications
 
 - 🧩 Solved **500+ Data Structures & Algorithms** problems across coding platforms
@@ -194,10 +203,6 @@
 
 📞 +91 98495 13695 &nbsp;|&nbsp; 📍 Hyderabad, Telangana, India
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dileepreddy-13&style=for-the-badge&color=2E9EF7" alt="Profile Views" />
 </div>
 
 <div align="center">
