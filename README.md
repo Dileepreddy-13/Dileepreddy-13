@@ -145,6 +145,16 @@
   <img src="https://leetcard.jacoblin.cool/Dileepreddy_13?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
+🏟️ Contest Stats
+
+<!-- 
+  Live contest rating, ranking, and rating-history chart, auto-generated from your LeetCode profile.
+  Update the username below if your LeetCode handle changes.
+-->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dileepreddy_13?ext=contest&theme=dark&font=Fira%20Code" alt="LeetCode Contest Stats" />
+</div>
+
 ---
 
 ## 🏆 Achievements & Certifications
