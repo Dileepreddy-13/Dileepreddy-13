@@ -199,7 +199,7 @@
 <a href="https://www.linkedin.com/in/dileep-reddy-lokasani-2136ba328/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:dr.2006lokasani@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dr.2006lokasani@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Dileepreddy_13/">
