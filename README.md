@@ -91,6 +91,16 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [Patient-Level Diabetes Readmission Prediction](https://github.com/Dileepreddy-13/Machine_Learning)
+
+- Developed an XGBoost model for 30-day diabetes readmission prediction using patient-level nested cross-validation to prevent patient overlap between training and validation data.
+- Applied calibration, threshold optimization, and bootstrap analysis, achieving 0.668 ROC-AUC and 0.2126 PR-AUC on 20,419 test encounters.
+- Used SHAP, risk stratification, and Decision Curve Analysis to assess feature contributions and clinical utility.
+
+`Machine Learning` `XGBoost` `Scikit-learn`
+
+---
+
 ### 🔹 [SkillForge — Learning Management System](https://github.com/Dileepreddy-13/learning_management_system)
 **Live Demo:** [skillforge-lac.vercel.app](https://skillforge-lac.vercel.app/)
 
